@@ -248,13 +248,16 @@
 				TargetAttributes = {
 					E24221BA2532FC72001BF897 = {
 						CreatedOnToolsVersion = 12.0.1;
+						ProvisioningStyle = Automatic;
 					};
 					E24221D52532FC73001BF897 = {
 						CreatedOnToolsVersion = 12.0.1;
+						ProvisioningStyle = Automatic;
 						TestTargetID = E24221BA2532FC72001BF897;
 					};
 					E24221E02532FC73001BF897 = {
 						CreatedOnToolsVersion = 12.0.1;
+						ProvisioningStyle = Automatic;
 						TestTargetID = E24221BA2532FC72001BF897;
 					};
 				};
